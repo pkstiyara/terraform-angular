@@ -1,2 +1,2 @@
-# terraform-angular
-Terraform-infra-for-angular-application
+# Terraform Template
+Terraform-Infra-template
